@@ -245,4 +245,4 @@ with tab4:
 
 st.divider()
 st.caption("⚠ Disclaimer: This tool provides informational insights only, not financial advice. Always consult a qualified professional.")
-Show quoted text
+
